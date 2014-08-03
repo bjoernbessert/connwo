@@ -1,4 +1,11 @@
-connwo
-======
+# connwo
 
-connwo - Simple hybrid cloud autoscaling solution 
+Coming soon ...
+
+ingredients:
+
+ - HAProxy
+ - Nagios
+ - VMware vSphere
+ - Python
+ - cloud provider x
